@@ -1,0 +1,1 @@
+This is a frontend clone of Spotify, built with HTML, CSS, and JavaScript. It replicates Spotify's UI, offering a responsive design with interactive audio controls and dynamic CSS animations. The layout uses Flexbox and Grid for a smooth user experience across devices.
